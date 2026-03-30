@@ -72,7 +72,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=lirpa62&show_icons=true&theme=default&hide_border=true&count_private=true&title_color=0969da&icon_color=0969da" height="165" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=lirpa62&show_icons=true&theme=default&hide_border=true&count_private=true&title_color=0969da&icon_color=0969da" height="165" />
 <img src="https://streak-stats.demolab.com?user=lirpa62&theme=default&hide_border=true&ring=0969da&fire=0969da&currStreakLabel=0969da" height="165" />
 
 </div>
