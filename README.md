@@ -3,6 +3,8 @@
 사용자 입장에서 **불편한 지점을 빠르게 발견하고 실제로 쓰이는 도구로 해결하는 개발**을 좋아합니다.  
 브라우저 확장 프로그램부터 데스크톱 앱, 모바일 앱, 데이터 기반 웹 프로젝트까지 다양한 플랫폼에서 만들고 있습니다.
 
+🌐 **Portfolio:** [lirpa62-portfolio.vercel.app](https://lirpa62-portfolio.vercel.app/)
+
 🎓 B.S. Computer Engineering, Pukyong National University
 
 > 모든 Featured Projects는 **AI-assisted** 방식으로 개발했습니다.  
