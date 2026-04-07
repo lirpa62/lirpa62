@@ -22,6 +22,7 @@
 | [**Cheemoticon-Cleaner**](https://github.com/lirpa62/Cheemoticon-Cleaner) | 최근 사용한 이모티콘 목록을 정리하고 관리하는 확장 프로그램 | 2025.08 ~ | 기획·구현·배포·운영 |
 | [**Chzzk-Grinder**](https://github.com/lirpa62/Chzzk-Grinder) | UID 확인, 댓글 차단, PNG/PDF 증거 수집을 돕는 클린 시청 도구 | 2025.12 ~ | 기획·구현·배포·운영 |
 | [**Chzzk-Logpower-Eraser**](https://github.com/lirpa62/Chzzk-Logpower-Eraser) | 통나무 파워 목록에서 원하지 않는 채널을 숨기는 확장 프로그램 | 2026.02 ~ | 기획·구현·배포·운영 |
+| [**Chzzk-Clip-Button-Eraser**](https://github.com/lirpa62/Chzzk-Clip-Button-Eraser) | 클립 시청 시 방해 버튼 숨김 확장 프로그램 | 2026.04 ~ | 기획·구현·배포·운영 |
  
 ### Web / Data
  
@@ -44,6 +45,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Browser Extensions](https://img.shields.io/badge/Browser_Extensions-4285F4?style=flat&logo=googlechrome&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
