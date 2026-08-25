@@ -2,7 +2,7 @@
 
 사용자 입장에서 **불편한 지점을 빠르게 발견하고 실제로 쓰이는 도구로 해결하는 개발**을 좋아합니다.
 
-**브라우저 확장 프로그램 8종** (Chrome·Edge·Whale·Firefox) 운영 · **7일간 순 방문자 32,726명** 웹 서비스 무중단 운영
+**브라우저 확장 프로그램 7종** (Chrome·Edge·Whale·Firefox) 운영 · **7일간 순 방문자 32,726명** 웹 서비스 무중단 운영
 
 🌐 **Portfolio:** [lirpa62-portfolio.vercel.app](https://lirpa62-portfolio.vercel.app/) 　
 
@@ -34,7 +34,6 @@
 | [**콘치즈**](https://github.com/lirpa62/Con-Chzzk) | 라이브·다시보기·커뮤니티 브라우저 알림 — 유형별 폴링 주기 차등 설계 | ![Chrome](https://img.shields.io/chrome-web-store/users/fndooehkehemlimfeemnfpmnkdjfpcjf?style=flat-square&logo=googlechrome&logoColor=white&color=4285F4&label=Chrome) ![Whale](https://img.shields.io/endpoint?style=flat-square&logo=naver&logoColor=white&label=Whale&url=https%3A%2F%2Fgist.githubusercontent.com%2Flirpa62%2F6d270190a0e1692961df16cde21eb691%2Fraw%2FCon-Chzzk-Whale-Users.json) |
 | [**치즈 그라인더**](https://github.com/lirpa62/Chzzk-Grinder) | UID 확인·차단·증거 수집 클린 시청 도구 | ![Chrome](https://img.shields.io/chrome-web-store/users/igiaeniadpmojahgllpodpfmedblaalb?style=flat-square&logo=googlechrome&logoColor=white&color=4285F4&label=Chrome) ![Whale](https://img.shields.io/endpoint?style=flat-square&logo=naver&logoColor=white&label=Whale&url=https%3A%2F%2Fgist.githubusercontent.com%2Flirpa62%2F68ddccad10f8831b927201fe5d9ef8c1%2Fraw%2FChzzk-Grinder-Users.json) |
 | [**통나무 파워 지우개**](https://github.com/lirpa62/Chzzk-Logpower-Eraser) | 통나무 파워 채널 숨김 — 요청 당일 개발·배포 | ![Chrome](https://img.shields.io/chrome-web-store/users/npghhgjfapajogklmofacjfmpliolmjc?style=flat-square&logo=googlechrome&logoColor=white&color=4285F4&label=Chrome) ![Whale](https://img.shields.io/endpoint?style=flat-square&logo=naver&logoColor=white&label=Whale&url=https%3A%2F%2Fgist.githubusercontent.com%2Flirpa62%2Fff310f381a13d9e4d831f8a7f7c89062%2Fraw%2FLogpower-Eraser-Users.json) |
-| [**클립 버튼 지우개**](https://github.com/lirpa62/Chzzk-Clip-Button-Eraser) | 클립 시청 방해 버튼 숨김 | ![Chrome](https://img.shields.io/chrome-web-store/users/nnmjcahkfdhjbkihamkfkibcmojanefb?style=flat-square&logo=googlechrome&logoColor=white&color=4285F4&label=Chrome) ![Whale](https://img.shields.io/endpoint?style=flat-square&logo=naver&logoColor=white&label=Whale&url=https%3A%2F%2Fgist.githubusercontent.com%2Flirpa62%2F41cc5fecee9cce99d24e4b558b39349d%2Fraw%2FChzzk-Clip-Btn-Eraser-Whale-Users.json) |
 | [**치즈 카페 나우**](https://github.com/lirpa62/Chzzk-Cafe-Now) | 네이버 카페 내 치지직 클립 인라인 재생 | ![Chrome](https://img.shields.io/chrome-web-store/users/nmgkecligcldoejbagooolglejneicdd?style=flat-square&logo=googlechrome&logoColor=white&color=4285F4&label=Chrome) ![Whale](https://img.shields.io/endpoint?style=flat-square&logo=naver&logoColor=white&label=Whale&url=https%3A%2F%2Fgist.githubusercontent.com%2Flirpa62%2F98240cb437dc1cb278a5ab8741798522%2Fraw%2FChzzk-Cafe-Now-Whale-Users.json) |
 
 ---
@@ -68,7 +67,7 @@
 ## 🌱 Currently
 
 - 외주 풀스택 프로젝트 **모한도전** 운영 및 고도화 (인증·권한·관리자 백오피스)
-- 치지직 확장 프로그램 시리즈 **8종 → 멀티 브라우저(Chrome·Edge·Whale·Firefox) 운영** 및 사용자 피드백 반영
+- 치지직 확장 프로그램 시리즈 **7종 → 멀티 브라우저(Chrome·Edge·Whale·Firefox) 운영** 및 사용자 피드백 반영
 - AI 도구를 활용한 빠른 프로토타이핑 → 실사용 도구 배포 사이클 다듬기
 
 ---
